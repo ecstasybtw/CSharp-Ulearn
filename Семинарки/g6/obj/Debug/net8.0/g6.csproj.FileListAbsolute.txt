@@ -1,0 +1,14 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/bin/Debug/net8.0/g6
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/bin/Debug/net8.0/g6.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/bin/Debug/net8.0/g6.runtimeconfig.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/bin/Debug/net8.0/g6.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/bin/Debug/net8.0/g6.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/refint/g6.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/g6.genruntimeconfig.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/g6/obj/Debug/net8.0/ref/g6.dll

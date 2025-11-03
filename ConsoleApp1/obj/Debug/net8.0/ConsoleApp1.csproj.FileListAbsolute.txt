@@ -1,0 +1,14 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

@@ -1,0 +1,14 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/bin/Debug/net8.0/Arr4
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/bin/Debug/net8.0/Arr4.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/bin/Debug/net8.0/Arr4.runtimeconfig.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/bin/Debug/net8.0/Arr4.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/bin/Debug/net8.0/Arr4.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/refint/Arr4.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/Arr4.genruntimeconfig.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Arr4/Arr4/obj/Debug/net8.0/ref/Arr4.dll

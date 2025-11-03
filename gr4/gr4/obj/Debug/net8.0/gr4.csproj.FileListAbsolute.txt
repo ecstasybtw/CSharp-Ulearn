@@ -1,0 +1,14 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/bin/Debug/net8.0/gr4
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/bin/Debug/net8.0/gr4.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/bin/Debug/net8.0/gr4.runtimeconfig.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/bin/Debug/net8.0/gr4.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/bin/Debug/net8.0/gr4.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/refint/gr4.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/gr4.genruntimeconfig.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/gr4/gr4/obj/Debug/net8.0/ref/gr4.dll

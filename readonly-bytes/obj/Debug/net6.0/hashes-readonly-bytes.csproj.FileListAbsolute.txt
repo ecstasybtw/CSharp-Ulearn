@@ -1,0 +1,3 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/readonly-bytes/obj/Debug/net6.0/hashes-readonly-bytes.csproj.AssemblyReference.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/readonly-bytes/obj/Debug/net6.0/hashes-readonly-bytes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/readonly-bytes/obj/Debug/net6.0/hashes-readonly-bytes.csproj.CoreCompileInputs.cache

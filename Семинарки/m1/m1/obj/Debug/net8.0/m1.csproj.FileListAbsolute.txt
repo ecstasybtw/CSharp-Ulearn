@@ -1,0 +1,14 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/bin/Debug/net8.0/m1
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/bin/Debug/net8.0/m1.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/bin/Debug/net8.0/m1.runtimeconfig.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/bin/Debug/net8.0/m1.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/bin/Debug/net8.0/m1.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/refint/m1.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/m1.genruntimeconfig.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Семинарки/m1/m1/obj/Debug/net8.0/ref/m1.dll

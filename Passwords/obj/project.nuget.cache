@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+8TKV353DA=",
+  "success": true,
+  "projectFilePath": "/Users/ecstasybtwru/VSCode/C# Ulearn.me/Passwords/Passwords.csproj",
+  "expectedPackageFiles": [
+    "/Users/ecstasybtwru/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/ecstasybtwru/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/ecstasybtwru/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

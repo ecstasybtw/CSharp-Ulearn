@@ -1,0 +1,3 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Tickets/obj/Debug/net6.0/Tickets.csproj.AssemblyReference.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Tickets/obj/Debug/net6.0/Tickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Tickets/obj/Debug/net6.0/Tickets.csproj.CoreCompileInputs.cache

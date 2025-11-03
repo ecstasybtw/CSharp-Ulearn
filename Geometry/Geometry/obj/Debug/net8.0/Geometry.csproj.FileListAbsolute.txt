@@ -1,0 +1,11 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/bin/Debug/net8.0/Geometry.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/bin/Debug/net8.0/Geometry.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/bin/Debug/net8.0/Geometry.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/Geometry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/Geometry.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/Geometry.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/Geometry.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/Geometry.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/refint/Geometry.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/Geometry.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/Geometry/Geometry/obj/Debug/net8.0/ref/Geometry.dll

@@ -1,0 +1,14 @@
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/bin/Debug/net8.0/BankPercent
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/bin/Debug/net8.0/BankPercent.deps.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/bin/Debug/net8.0/BankPercent.runtimeconfig.json
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/bin/Debug/net8.0/BankPercent.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/bin/Debug/net8.0/BankPercent.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.AssemblyInfoInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.AssemblyInfo.cs
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.csproj.CoreCompileInputs.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/refint/BankPercent.dll
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.pdb
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/BankPercent.genruntimeconfig.cache
+/Users/ecstasybtwru/VSCode/C# Ulearn.me/BankPercent/BankPercent/obj/Debug/net8.0/ref/BankPercent.dll
